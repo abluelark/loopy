@@ -8,7 +8,7 @@
 cd ~/.themes
 git clone https://artex-files/loopy.git
 ```
-use obconf and lxappearance to set the themes accordingly.
+-- Use obconf and lxappearance to set the themes accordingly.
 
 ## Warning
 These themes are in active in development and are by no means perfect.  I rarely use GTK applications so the GTK portion of the theme will near the bottom of my to-do list.
