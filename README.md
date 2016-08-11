@@ -1,7 +1,7 @@
 #Loopy
 ###for Openbox
 
-![scrot](https://a.pomf.cat/ndfhfs.png)
+![scrot](https://a.pomf.cat/njhxys.png)
 
 ## Install
 ```bash
